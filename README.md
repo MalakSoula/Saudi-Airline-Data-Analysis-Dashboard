@@ -6,7 +6,7 @@ This project showcases an interactive Power BI dashboard analyzing air travel da
 
 ## Dashboard Overview
 
-![Saudi Airlines Dashboard](screenshots/pic1.png)
+![Saudi Airlines Dashboard](pic1.png)
 
 **Main Features:**
 - Annual passenger volume trends (2016–2023)
